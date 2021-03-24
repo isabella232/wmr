@@ -1,5 +1,11 @@
 # create-wmr
 
+## 0.3.1
+
+### Patch Changes
+
+- [`621fbd2`](https://github.com/preactjs/wmr/commit/621fbd207e27f0ca52846483c387c86330a96ab5) [#410](https://github.com/preactjs/wmr/pull/410) Thanks [@rschristian](https://github.com/rschristian)! - Fix for .gitignore in newly scaffolded projects
+
 ## 0.3.0
 
 ### Minor Changes
